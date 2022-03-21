@@ -1,9 +1,5 @@
-# Project: Create an "Order Tracking" application
+# Capstone Project: Create an "Order Tracking" application
 
-## Important links
-
-- [Milestones](milestones.md)
- 
 ## Application purpose
 We want to increase the productivity of our customer service representatives (CSR). We're building a new app for them that can do the following:  
 * Customer
@@ -70,32 +66,32 @@ We want to increase the productivity of our customer service representatives (CS
 ## Teams
 
 ### Front-end
-- Brianna Fahrenkopf
 - Mary Wishart
 - Jun Hao Chia
 - Christopher Gritter
 - Steven Portillo
+- Rahul Whig
 
 ### Back-end
 - Caroline Manghan
+- Brianna Fahrenkopf
 - Katrina Wallace
-- Rahul Whig
 - Baltej Toor
 - Daniel Kotlinski
 
 ### Database and Analytics
-- Ambioris Lora
 - Jacob Whiteman
 - Joseph Travers
 - Seena Rose Mathew
 - Callum Ogle
+- Wiktoria Fiolek
 
 ### DevSecOps
 - Adam Audet
 - Kaitlin Mullins
 - Peter Baker
 - Phillip Kopita
-- Wiktoria Fiolek
+- Ambioris Lora
 
 ### Testing and documentation
 - Alex Mazzarese
@@ -163,11 +159,12 @@ What about searching? Filtering? Versioning? Pagination? Limiting the result set
 
 ## First steps
 1. Discuss the architecture of the app amongst the team. Create a diagram that illustrates the flow data between various components.
-2. Review the suggested API design and Business Object schemas. Do they support all of the functionality that is required for the application? Can you visualize which API methods will need to be called, and how the Business Objects will change at each step of the Order Lifecycle?
-3. Draw an Entity Relationship Diagram for the DB schema. Once this is in hand, creation and intialization of the required tables is trivial.
-4. Encode the API using the [OpenAPI](https://swagger.io/specification/) specification. Doing so will not only serve as a canoncial source of living documentation, but also allow for the auto generation of client and server method stubs.
-5. Review the suggested JS and CSS frameworks. Your choice of server side tech is non-negotiable in this case, but management defers to you regarding choice of front-end technologies.
-6. Discuss a minimum viable product, and when you can achieve it
+1. Review the suggested API design and Business Object schemas. Do they support all of the functionality that is required for the application? Can you visualize which API methods will need to be called, and how the Business Objects will change at each step of the Order Lifecycle?
+1. How will you coordinate amongst teams? Amongst yourselves? How can your PM see progress?
+1. Draw an Entity Relationship Diagram for the DB schema. Once this is in hand, creation and intialization of the required tables is trivial.
+1. Encode the API using the [OpenAPI](https://swagger.io/specification/) specification. Doing so will not only serve as a canoncial source of living documentation, but also allow for the auto generation of client and server method stubs.
+1. Review the suggested JS and CSS frameworks. Your choice of server side tech is non-negotiable in this case, but management defers to you regarding choice of front-end technologies.
+1. Discuss a minimum viable product, and when you can achieve it
 
 ## Suggested milestones
 
