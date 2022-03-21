@@ -43,7 +43,7 @@ We want to increase the productivity of our customer service representatives (CS
 
 ## Tech stack
 * Documentation
-    - API must documented using [OpenAPI](https://swagger.io/specification/) specification. Additional Swagger tools can be used as desired.
+    - API must be documented using [OpenAPI](https://swagger.io/specification/) specification. Additional Swagger tools can be used as desired.
 * Backend 
     - Node.js 16
     - ExpressJS 4
